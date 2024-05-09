@@ -56,7 +56,6 @@
             else
             {
                 Operation = OperationEnum.unrecognized;
-                return;
             }
         }
     }
