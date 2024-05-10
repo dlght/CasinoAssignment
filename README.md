@@ -1,4 +1,4 @@
-# Casino Assignment System Documentation
+# Casino Assignment - System Documentation
 
 ## Introduction
 CasinoAssignment is a command-line application designed to facilitate interactions with a user's wallet within the context of gaming. 
